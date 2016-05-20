@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ws_query_parameter">
+    <sys_ws_query_parameter action="INSERT_OR_UPDATE">
+        <example_value>Camry</example_value>
+        <name>model</name>
+        <required>false</required>
+        <short_description>Vehicle Model</short_description>
+        <sys_class_name>sys_ws_query_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-05-20 19:26:05</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>8a707401a06312007f44810504b45703</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>model</sys_name>
+        <sys_package display_value="Parking Issues" source="x_pir">2bc7b833673212008db1bcb532415a9d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Parking Issues">2bc7b833673212008db1bcb532415a9d</sys_scope>
+        <sys_update_name>sys_ws_query_parameter_8a707401a06312007f44810504b45703</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-05-20 19:26:05</sys_updated_on>
+        <web_service_definition display_value="Parking Issue">6e3fe001a06312007f44810504b457a0</web_service_definition>
+    </sys_ws_query_parameter>
+</record_update>
